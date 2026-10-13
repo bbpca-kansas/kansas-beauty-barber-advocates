@@ -9,7 +9,7 @@ pushed to the `main` branch. In the repository settings, set **Pages → Build a
 Source** to **GitHub Actions**. After the first successful workflow run, the public site is
 available at:
 
-`https://laura77789.github.io/kansas-beauty-barber-advocates/`
+`https://bbpca-kansas.github.io/kansas-beauty-barber-advocates/`
 
 ## Local preview
 
