@@ -20,4 +20,4 @@ build step is required.
 
 - Email: [bbpconsumeradvocates@yahoo.com](mailto:bbpconsumeradvocates@yahoo.com)
 - Petition: [Change.org](https://c.org/bxKS5rh69J)
-- Facebook: [Kansas Beauty and Barber Professionals Consumer Advocates](https://www.facebook.com/share/1DSw93xwRP/?mibextid=wwXlfr)
+- Facebook: [Kansas Beauty and Barber Professionals Consumer Advocates](https://www.facebook.com/people/Kansas-Beauty-and-Barber-Professionals/61594822378441/)
