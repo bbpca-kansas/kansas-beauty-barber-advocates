@@ -349,14 +349,6 @@ h2 em {
   border-radius: 4px;
 }
 
-.card-number {
-  position: absolute;
-  top: 1.4rem;
-  right: 1.2rem;
-  color: rgba(247, 244, 236, 0.58);
-  font-size: 0.64rem;
-}
-
 .card-icon {
   display: grid;
   place-items: center;
