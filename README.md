@@ -18,6 +18,6 @@ build step is required.
 
 ## Contact and campaign links
 
-- Email: [bbpconsumeradvocates@yahoo.com](mailto:bbpconsumeradvocates@yahoo.com)
+- Email: [bbpconsumeradvocates@gmail.com](mailto:bbpconsumeradvocates@gmail.com)
 - Petition: [Change.org](https://c.org/bxKS5rh69J)
 - Facebook: [Kansas Beauty and Barber Professionals Consumer Advocates](https://www.facebook.com/people/Kansas-Beauty-and-Barber-Professionals/61594822378441/)
