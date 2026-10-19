@@ -13,8 +13,11 @@ available at:
 
 ## Local preview
 
-Open `index.html` in a web browser. The site is plain HTML and CSS; no package installation or
-build step is required.
+Open `index.html` in a web browser. The site uses static HTML, CSS, and JavaScript; no package
+installation or build step is required.
+
+The **From the campaign** section includes 51 reviewed Facebook articles. Open a card to read
+its full text; matching selected photos are shown where available.
 
 ## Contact and campaign links
 
