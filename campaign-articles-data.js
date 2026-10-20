@@ -3,7 +3,7 @@ window.campaignArticles = [
         "post":  "086",
         "date":  "Oct 04, 2026",
         "title":  "We Have the Power to Regulate AI",
-        "image":  null,
+        "image":  "assets/campaign-gallery/facebook-post-093.jpg",
         "paragraphs":  [
                            "We Have the Power to Regulate AI! We’ve all heard the terrifying predictions: \"In 10 years, AI will take all the jobs and there’s nothing we can do about it.\" BS! Every day, metrics from agencies like the Department of Labor are weaponized by tech lobbyists and politicians to push a deregulation agenda. They treat these numbers like a weather forecast—as if a massive wave of job displacement is a natural disaster we just have to sit back and endure. But let’s be clear: this is a manufactured narrative. The public and our policymakers are being brainwashed into believing that artificial intelligence is an unstoppable, uncontrollable force. Governments have all the power in the world to regulate it. Those labor statistics shouldn’t be used as an excuse to throw our hands up and deregulate. They should be the exact catalyst we useto pass strict IT regulations, mandate corporate guardrails, and protect workers\u0027 rights. AI doesn\u0027t just \"happen\" to us. It is built, funded, and deployed by choice. It’s time to stop acting helpless, reject the deregulation trap, and start using our policy power to shape a future where technology serves people—not just corporate bottom lines."
                        ]
@@ -37,6 +37,60 @@ window.campaignArticles = [
                        ]
     },
     {
+        "post":  "090",
+        "date":  "Oct 03, 2026",
+        "title":  "Facebook post 090",
+        "image":  null,
+        "paragraphs":  [
+
+                       ]
+    },
+    {
+        "post":  "091",
+        "date":  "Oct 02, 2026",
+        "title":  "Facebook post 091",
+        "image":  null,
+        "paragraphs":  [
+
+                       ]
+    },
+    {
+        "post":  "092",
+        "date":  "Oct 02, 2026",
+        "title":  "Facebook post 092",
+        "image":  null,
+        "paragraphs":  [
+
+                       ]
+    },
+    {
+        "post":  "093",
+        "date":  "Oct 02, 2026",
+        "title":  "Facebook post 093",
+        "image":  null,
+        "paragraphs":  [
+
+                       ]
+    },
+    {
+        "post":  "094",
+        "date":  "Oct 02, 2026",
+        "title":  "Facebook post 094",
+        "image":  null,
+        "paragraphs":  [
+
+                       ]
+    },
+    {
+        "post":  "095",
+        "date":  "Oct 02, 2026",
+        "title":  "Facebook post 095",
+        "image":  null,
+        "paragraphs":  [
+
+                       ]
+    },
+    {
         "post":  "096",
         "date":  "Oct 01, 2026",
         "title":  "Who would win? It’s up to you!",
@@ -52,6 +106,15 @@ window.campaignArticles = [
         "image":  null,
         "paragraphs":  [
                            "The absolute audacity of deregulation think tanks using AI to push their corporate agendas is mind-boggling.For years, these free-market groups have been whispering in the ears of state legislators to dismantle professional standards.Now, they have a new bogeyman to scare lawmakers: AI-driven mass unemployment.Their manufactured narrative is completely backward:\"AI is going to take everyone’s job, so we need to strip away licensing requirements so displaced workers can easily pivot.\"Think about how dangerous that logic is. Instead of demanding that governments step up to regulate AI—protecting worker privacy, preventing exploitation, and managing automation—they want to deregulate human professions.They want to turn your hard-earned career into an unprotected, low-wage gig economy under the guise of \"flexibility.\"The actual numbers completely expose this lie.Bureau of Labor Statistics data shows that the predicted \"AI jobs apocalypse\" simply hasn\u0027t shown up.Unemployment across exposed sectors remains stable. (Because people are fighting back!)The fearmongering is a fantasy manufactured to justify a corporate wish list. (Koch)We do not need to strip protections from professionals just to clean up the mess left by unregulated tech companies.If technology threatens to disrupt the workforce, you regulate the technology. You don\u0027t strip away safety, training, and wage standards from the working class.State legislators need to wake up, look at the actual labor statistics, and stop letting think tanks use tech anxiety to rob professionals of their livelihoods.Protect the workers. Regulate AI. Leave our professions alone."
+                       ]
+    },
+    {
+        "post":  "098",
+        "date":  "Oct 01, 2026",
+        "title":  "Respect the craft or cut your own hair!!",
+        "image":  "assets/campaign-gallery/facebook-post-098.jpg",
+        "paragraphs":  [
+                           "They want to vote to deregulate cosmetology and barbering trades and cut you out of the conversation? Then they can learn to cut their own hair!! They have Koch? You have the chair!! Private Protest!! You have the right to refuse service to any Kansas politician pushing bills that threaten public sanitation and devalue professional beauty and barber licenses in protest! If they come into your shop looking for professional service while supporting legislation that dismantles your industry, politely ask them to leave!! Politicians are not a protected class in Kansas! Professional standards keep the public safe. #Respect the craft or cut your own hair!!"
                        ]
     },
     {
@@ -200,6 +263,15 @@ window.campaignArticles = [
                        ]
     },
     {
+        "post":  "103",
+        "date":  "Oct 01, 2026",
+        "title":  "PLOT TWIST!",
+        "image":  "assets/campaign-gallery/facebook-post-103.jpg",
+        "paragraphs":  [
+                           "The Kansas Legislature’s official fallback plan for when AI takes your corporate job? Become a barber. Think we’re joking? Look at SB 30. Politicians like Ty Masterson just pushed through a veto override to strip power away from our skilled trade boards. Why the sudden obsession with deregulating cosmetology, barbering, and the building trades? Because the Department of Labor knows AI is coming for the desk jobs, and corporate lobbyists have decided that hands-on, human-centric careers are the perfect dumping ground for mass unemployment! The Strategy: 1. Let AI automate everything else. 2. Force deregulation so anyone can pick up shears or a wrench with zero safety standards or proper training. 3. Watch professional wages crash while think tanks pat themselves on the back for \"job creation.\" Our professions literally fund their own boards and hand over 10% to the state\u0027s general fund, yet the legislature just let corporate donors write the rules anyway. Hey, Topeka legislators: Quick reminder that YOU were elected to protect Kansas workers and consumers—not to roll out the red carpet for a Koch-funded corporate experiment. Stop letting lobbyists scare you into destroying our livelihoods. See you all in cosmetology school when the tech servers crash!"
+                       ]
+    },
+    {
         "post":  "104",
         "date":  "Oct 01, 2026",
         "title":  "Ty Masterson is a TRADER!",
@@ -221,7 +293,7 @@ window.campaignArticles = [
         "post":  "106",
         "date":  "Oct 01, 2026",
         "title":  "Hays Academy of Hair Design-Hays KS",
-        "image":  null,
+        "image":  "assets/campaign-gallery/facebook-post-090.jpg",
         "paragraphs":  [
                            "Did you know Hays Academy of Hair Design, Hays KS, has been a pillar of the community since 1981?For over four decades, this academy has graduated tons of highly skilled, hardworking cosmetologists who power our local economy.Leaders like Len Melvin have dedicated years to building a true service-driven, community-first institution.Yet, when Representative Barb Wasinger sponsored and pushed legislation to deregulate parts of the cosmetology industry (like SB 434), she didn\u0027t even have the respect to visit the school or sit down with local industry leaders like Len first.If you\u0027re going to pass laws that impact local vocational education and small businesses, you owe it to your constituents to talk to the experts right in your own backyard first.Let\u0027s support our local students, professionals, and institutions like Hays Academy of Hair Design!FIRE BARB WASINGER HAYS!"
                        ]
@@ -251,6 +323,24 @@ window.campaignArticles = [
         "image":  "assets/campaign-gallery/facebook-post-109.jpg",
         "paragraphs":  [
                            "Fire them!They are all up for reelection in November!They did not run on this crap! They are getting your vote and then doing whatever they want with it; did they talk to you about this Kansas?The SB 30 Veto Override is a Betrayal of Public Trust!https://sos.ks.gov/publications/sessionlaws/2026/Messages-05-SB-30.htmlThe recent decision by a supermajority in the Kansas Legislature to override Governor Laura Kelly’s veto of Senate Bill 30 is a direct betrayal of specialized workers and everyday citizens alike.https://www.kslegislature.gov/b2025_26/bills/sb30/By stripping power from independent professional boards and granting politicians the final say over technical licensing requirements, our representatives have chosen political control over expert safety standards.This isn\u0027t just bureaucratic meddling—it is an outright power grab. Lawmakers in the House and Senate who voted for this override have declared that their political agendas matter more than the qualifications of nurses, accountants, and dozens of other professions that protect Kansas consumers.When elected officials ignore the executive branch, dismiss industry experts, and push through centralized regulations, they need to be held accountable at the ballot box.It is time to look closely at the voting records from the April 2026 veto session.Remember the names of the representatives who voted to replace professional expertise with political oversight—and remember this betrayal when it is time to vote.If you want to see exactly how your local representative or senator voted on the Senate Bill 30 veto override? You can view the official roll call votes on the Kansas Legislature Bill Tracker.https://www.kslegislature.gov/b2025_26/votes/TRADERS!"
+                       ]
+    },
+    {
+        "post":  "110",
+        "date":  "Sep 30, 2026",
+        "title":  "Facebook post 110",
+        "image":  null,
+        "paragraphs":  [
+
+                       ]
+    },
+    {
+        "post":  "111",
+        "date":  "Sep 30, 2026",
+        "title":  "Facebook post 111",
+        "image":  null,
+        "paragraphs":  [
+
                        ]
     },
     {
@@ -294,7 +384,7 @@ window.campaignArticles = [
         "post":  "116",
         "date":  "Sep 29, 2026",
         "title":  "The Massive Lie Hidden in Workforce Income Data",
-        "image":  null,
+        "image":  "assets/campaign-gallery/correlationisnotcausation.png",
         "paragraphs":  [
                            "The following professions have been deemed not worthy by the US Department of Education…",
                            "Cosmetology | Culinaryarts | Early childhood education | English literature | Fine arts | Studio arts",
@@ -328,7 +418,7 @@ window.campaignArticles = [
         "post":  "120",
         "date":  "Sep 27, 2026",
         "title":  "Public Consent",
-        "image":  null,
+        "image":  "assets/campaign-gallery/facebook-post-084.jpg",
         "paragraphs":  [
                            "Calling all Kansas barbering and cosmetology schools, students, and licensed professionals. Have any of your local state representatives reached out to you or visited your school recently?With the Kansas House of Representatives election here, we keep seeing lawmakers push to deregulate our professions, cut down training hours, and try to combine the boards.But here is the real question: if they aren\u0027t talking to the Board of Cosmetology, and they aren\u0027t visiting the actual schools training the next generation of professionals, who exactly are they talking to? You’d think with all the time they are spending on attacking cosmetology and barber professions, they would at least visit a school first???Drop a comment below if a representative has taken the time to see your clinic floor, look at your sanitation curriculum, or listen to your students.If not, it is time we started asking them why they are trying to change an industry they haven\u0027t even bothered to step foot in."
                        ]
@@ -347,7 +437,7 @@ window.campaignArticles = [
         "post":  "122",
         "date":  "Sep 27, 2026",
         "title":  "Big Plans for Cosmetology and Barbering in Kansas?",
-        "image":  null,
+        "image":  "assets/campaign-gallery/facebook-post-095.jpg",
         "paragraphs":  [
                            "Ty Masterson and Joseph “Joe” Claeys (Maize, KS) already have massive plans to overhaul our professions if Masterson wins the governor’s race, and they are not even waiting for the election to start pushing their agenda.By introducing RS 3343 to force a hostile merger of the Kansas Board of Barbering and the Kansas Board of Cosmetology, they are showing us exactly what a Masterson administration will look like: a complete elimination of independent trade boards in favor of corporate deregulation.Current Governor Laura Kelly has historically served as a firewall against these types of corporate-backed consolidation bills, but she is term-limited.If Democratic nominee Cindy Holscher is not elected to the governor\u0027s office to stand as that critical defensive wall, there will be absolutely no one left to veto this kind of legislation.Masterson and Claeys will have a clear path to dismantle our hard-earned licensing values, strip away traditional barbering representation, and rewrite our sanitation rules to benefit corporate mega-chains.We need to wake up and realize what is at stake this November.Protect your livelihood, vote to protect independent representation, and tell Masterson and Claeys to keep their hands off our boards.",
                            "*This information was corrected on 10/01/2026. The article originally gave credit to JR Claeys for this collaboration, JR Claeys quit and took a job with trump last year. Joseph \"Joe\" Claeys is a new representative for Maize, KS, already drinking Koch Kool-Aid. Sorry for the error."
@@ -406,7 +496,7 @@ window.campaignArticles = [
         "post":  "128",
         "date":  "Sep 26, 2026",
         "title":  "The State Capture of Kansas",
-        "image":  "assets/campaign-gallery/facebook-post-128.jpg",
+        "image":  null,
         "paragraphs":  [
                            "KANSANS!",
                            "Our state legislature is being quietly steered by special interest lobbyists—and they are lying to us about it.Right now, a major shift is happening in Topeka. While politicians claim they are \"cutting bureaucratic red tape\" and \"protecting worker freedom,\" the reality is much more concerning. Our legislature is working hand-in-hand with powerful out-of-state deregulation lobbyists and billionaire-backed networks like Americans for Prosperity. They are systematically dismantling the independent boards that keep Kansans safe.Here is what they are hiding from the public!Silencing the Experts: Legislation like the recent nursing board overhaul (HB 2528) and new \"regulatory relief\" bills (SB30) aren\u0027t coming from grassroots consumer demands. They are drafted by corporate think tanks to strip power away from experienced, licensed professionals and hand control over to political appointees and special interest groups.The \"Innovation Sandbox\" Illusion: Lawmakers are pushing models that allow chosen businesses to bypass state safety, health, and sanitation rules for years at a time. They call it \"innovation.\" We call it an accountability free-for-all.A Top-Down Corporate Agenda: These sweeping rollbacks are designed to replace expert-led public safety standards with a system controlled by a wealthy few.They want you to believe independent licensing boards are the problem, but those boards are the only shield protecting consumers from substandard care.This isn\u0027t a grassroots movement;it is a top-down corporate takeover of our professional standards, from cosmetology and childcare to food and medical safety. They have lobbying money, but we have the power of our voices. It\u0027s time to demand transparency and put public safety back in the hands of the people, not corporate insiders.Kansans, it\u0027s time to speak up.Call your representatives and ask them who actually wrote the bills they are voting on. Share this post to expose what’s happening in Topeka!"
@@ -416,7 +506,7 @@ window.campaignArticles = [
         "post":  "129",
         "date":  "Sep 26, 2026",
         "title":  "Nothing About Our Industry Without Our Industry",
-        "image":  null,
+        "image":  "assets/campaign-gallery/facebook-post-128.jpg",
         "paragraphs":  [
                            "Big money lobbyists are rewriting the rules on occupational licensing—and cutting the public out completely.A quiet, well-funded movement is sweeping through state legislatures, aiming to dismantle the oversight that keeps our communities safe.From cosmetology and childcare to food safety and medical nursing, powerful corporate networks and libertarian think tanks are pushing laws to strip power away from independent licensing boards.They are using a top-down strategy to pass \"model legislation\" that replaces experienced, licensed professionals with corporate lobbyists.Here is what is happening behind closed doors:Silencing the Experts: They are stripping authority from specialized boards and replacing licensed industry representatives with political appointees and lobbyists who don\u0027t understand the day-to-day safety risks.Bypassing Public Consent:These sweeping rollbacks aren\u0027t coming from grassroots\u0027 consumer requests or public demand. They are being manufactured by powerful lobbying groups to weaken regulatory oversight.Lowering the Bar on Safety: By masking deregulation as \"worker freedom,\" they are quietly eroding the strict education, health, and sanitation standards that protect consumers from substandard care and safety failures.Occupational licensing isn\u0027t just \"red tape\"—it is a critical shield for public health, safety, and professional standards. We cannot allow special interest groups to quietly rewrite the rules governing our livelihoods and safety without our consent!"
                        ]
@@ -425,9 +515,18 @@ window.campaignArticles = [
         "post":  "130",
         "date":  "Sep 26, 2026",
         "title":  "The Illusion of \"Cutting Red Tape\": Who Really Wins?",
-        "image":  "assets/campaign-gallery/facebook-post-130.jpg",
+        "image":  "assets/campaign-gallery/facebook-post-092.jpg",
         "paragraphs":  [
                            "There is a growing trend across state legislatures: the push to merge or eliminate independent professional boards. While packaged as a move to maximize efficiency and help workers, a closer look reveals a different story driven by constant lobbying for deregulation. Cosmetology and barber boards are frequently on the chopping block as an easy safe win for Lawmakers. They often frame these occupations as over-regulated, but they rarely have an honest discussion about why these boards exist in the first place: public health, sanitation, and safety.When the senate, led by Ty Masterson, enacted SB30, after Laura Kelly vetoed it, they fully revealed their true intentions…POWER.The KS state agencies already can’t get through the rules and regulations committee reviews and cannot update statues, so adding another level of bureaucracy is asinine and completely counter to what they claim they want to do. What a joke these legislators are. Talk about wasting our money. This is what they are doing instead of their jobs, representing us. Boards are supposed to be independent. Stripping away specialized oversight doesn\u0027t help the everyday practitioner or the consumer;it primarily benefits large corporate interests looking to lower standards and labor costs and makes it easier to deregulate professionals in KS.This pattern of top-down decision-making isn\u0027t unique to professional licensing. We see the exact same disconnect in how major infrastructure projects are handled. Look at the sudden, aggressive rise of massive data centers taking over local communities, straining power grids, and consuming millions of gallons of water.Who actually decided this is what the public wants? What the crap?When legislators spend their days entertaining corporate lobbyists instead of listening to the constituents they represent, public interest gets sidelined. Whether it is dismantling the boards that protect consumer health or greenlighting massive data infrastructure without community consent, the underlying issue is the same: policy is being driven by backroom influence rather than honest, democratic discussion.It is time to demand transparency and put public safety and community consent back at the center of governance."
+                       ]
+    },
+    {
+        "post":  "131",
+        "date":  "Sep 26, 2026",
+        "title":  "Kansas, wake up! What are we doing?",
+        "image":  null,
+        "paragraphs":  [
+                           "Remember when Kansas voted down the election of Supreme Court justices because we didn’t want the Koch network to choose our courts? Well, look at where we are now. By getting ready to elect Ty Masterson as governor, Kansas is basically preparing to hand the governor\u0027s mansion right over to Koch control. Ty Masterson is a Trump puppet through and through. Look at how things are going in Washington, D.C. right now, is that really what we want for Kansas? If Masterson wins, we are going to see that exact same division and corporate control brought straight to Topeka. They refuse to meet with the people working in the industry. Meanwhile, legislation that could fix our problems sits there for years, collecting dust, because they won\u0027t even hear it. They don\u0027t care about your livelihood or consumer safety. We better get ready to fight for everything we believe in. We are THE John Brown state. Stand up for justice and independence. Please, Kansas, don’t go out like this. If you appreciate having this information and want to protect our state and your industry, please Follow this page and invite your friends to join us. We need to spread the word before November! Take 3 seconds to help us spread the word: Go to the top of our Facebook Page. Click the three dots (...) next to the search icon. Click \"Invite Friends\" and select your network."
                        ]
     },
     {
@@ -471,7 +570,7 @@ window.campaignArticles = [
         "post":  "135",
         "date":  "Sep 26, 2026",
         "title":  "Consumer Alert",
-        "image":  "assets/campaign-gallery/facebook-post-135.jpg",
+        "image":  null,
         "paragraphs":  [
                            "Deregulated braiding and threading businesses in KS are not required to notify consumers that they are unregulated/unlicensed. Have no formal training and do not receive annual health and safety inspections.As consumers, we deserve to know that the people touching our skin, eyes, and bodies are held to strict standards. Koch-funded corporate lobby groups have been quietly tearing down safety standards in Kansas. They fully deregulated braiding and threading, and they just tried to strip away sugaring safety rules.Let\u0027s keep it 100%. Everybody loves to complain about the Kansas Board of Cosmetology (KBOC) being the \"bad guy.\" Yeah, a surprise health inspection or a strict fine SUCKS in the moment.But look at the bigger picture: that oversight keeps shops clean, employees accountable, and the public safe.Keeping the KBOC in check is the best thing for the industry:Protects Our Communities: It ensures we aren\u0027t exposed to infections, blood-borne pathogens, or unsanitary conditions.Establishes Public Trust:When a client sees that current state license on the wall, they feel safe. That trust is what keeps chairs filled.Booms Local Business:Trust equals loyalty.Total deregulation destroys consumer confidence, leaving local storefronts isolated and struggling.These political lobbyists think they can use the beauty industry as a checklist for their wealthy donors, but we are the ones who vote, shop, and talk to our communities every single day.They use big political playbooks, but they forget one major thing: stylists and clients hold the real power.It\u0027s time to stand up for consumer safety and support the licensed professionals who keep us safe.Sign the petition her to demand a mandate requiring full disclosure to consumers prior to providing unregulated beauty services https://c.org/bxKS5rh69J"
                        ]
@@ -506,6 +605,15 @@ window.campaignArticles = [
         "image":  "assets/campaign-gallery/facebook-post-138.jpg",
         "paragraphs":  [
                            "What’s really going on with the deregulation push against our trade schools.Lately, the Kansas Board of Cosmetology (KBOC) has been wrapped up in lawsuits, and a specific narrative has taken over the headlines. But as consumers and advocates, we need to look closer at who is funding these battles and why.Special interest groups—backed by wealthy, corporate-funded think tanks—are actively targeting the beauty and barbering industries.Why? Because they are going after the \"low-hanging fruit.\" They are targeting female-dominated, service-oriented industries to score an easy political win under the guise of \"reducing red tape\".But let’s be clear about what they are doing:They are trying to strip away the professional credentials that give working-class professionals equal footing in the business world.They dismiss hundreds of hours of training in infection control, chemistry, and consumer safety as \"unnecessary,\" compromising public health.Instead of supporting robust career pathways, they are trying to weaken the exact structures that protect single mothers, entrepreneurs, and independent business owners.Beauty and barbering programs are legitimate, high-value skilled trades. They deserve the same prestige, respect, and state-backed legal protections as electrical, plumbing, or automotive trades.Our local salons, barbershops, and trade academies are pillars of our economy.We won\u0027t let outside corporate interests control the narrative or cheapen the hard-earned value of a professional license.Stand up for our beauty and barber schools and graduates!Support the trades!"
+                       ]
+    },
+    {
+        "post":  "139",
+        "date":  "Sep 26, 2026",
+        "title":  "Learning a trade provides financial independence",
+        "image":  "assets/campaign-gallery/facebook-post-139.jpg",
+        "paragraphs":  [
+                           "Learning a trade provides financial independence. For single women especially, access to beauty and barber licensing is one of the most vital pathways to financial survival and economic mobility. It is a fast, affordable ticket to a stable career. But there is a dangerous trend right now of people trying to bypass the system. I’ll be completely blunt: Operating an unlicensed \"sugaring business\" or beauty side-hustle from your living room is not a sustainable business model. If you aren\u0027t willing to put in the minimal hours required to get state licensed, your business is built on quicksand. Here is the reality check: Without a license, you have no professional credibility. If something goes wrong, you have no legal backing. Try getting commercial liability insurance without a license number. Underwriters won\u0027t touch you. One accident or allergic reaction can financially ruin you. Banks don\u0027t grant business loans or lines of credit to unlicensed, off-the-books operations. Preserving and protecting access to trade schools is how we protect single mothers and independent women and men. It gives them a legitimate, state-backed credential. That piece of paper is what forces the public to respect your craft, what forces banks to take you seriously, and what protects your livelihood. Don\u0027t shortcut the process. Get the license, build the foundation, and protect your future."
                        ]
     },
     {
@@ -550,7 +658,7 @@ window.campaignArticles = [
         "post":  "145",
         "date":  "Sep 25, 2026",
         "title":  "Koch Funded Brain Rot – Rep. Barb Wasinger - Hays, KS",
-        "image":  null,
+        "image":  "assets/campaign-gallery/facebook-post-111.jpg",
         "paragraphs":  [
                            "Who is Rep. Barb Wasinger Really Fighting For? While Kansans expect their lawmakers to protect public safety and support local workers, Representative Barb Wasinger (R-Hays) spent her energy launching an attack on the Kansas Board of Cosmetology and the state\u0027s hard-earned professional standards. By aggressively lobbying for the deregulation of hair-removal practices like \"sugaring\" (Senate Bill 434), Wasinger chose to bypass health and safety rules established to protect consumers from infection and injury. She went to bat against professional licensing boards—the very entities that ensure safe, hygienic practices across our state.Why the sudden obsession with stripping away safety standards?Follow the money. Rep. Wasinger\u0027s campaigns have historically accepted direct funding from the Koch Industries PAC, a massive corporate political action committee notorious for pushing aggressive deregulation agendas.At the same time, the Koch-backed lobbying group Americans for Prosperity (AFP) poured resources into pushing this exact bill through the legislature.When corporate special interests call the shots, Kansas consumers lose. It’s time to ask why Rep. Wasinger is dismantling our professional boards instead of protecting Kansas families.Koch Industries PAC:Public records from the Kansas Governmental Ethics Commission confirm that Koch Industries\u0027 political action committee has been a direct, recurring donor to Wasinger\u0027s campaign committee across her election cycles.Wasinger is currently on the ballot for re-election to represent District 111 in the upcoming November 3, 2026, general election.Americans for Prosperity (AFP): While AFP primarily engages in independent expenditures rather than direct candidate contributions, the group actively tracked and intensely lobbied Kansas lawmakers to pass SB 434 as part of its broader campaign against state-level occupational licensing.Verification: You can review her itemized contributions and check for any potential finance updates directly through the Open Secrets State Database or by pulling her official filed receipts from the Kansas Secretary of State\u0027s Campaign Finance Viewer."
                        ]
@@ -591,7 +699,7 @@ window.campaignArticles = [
         "post":  "149",
         "date":  "Sep 25, 2026",
         "title":  "Female Workforce Deregulation",
-        "image":  null,
+        "image":  "assets/campaign-gallery/womenworkforce.jpg",
         "paragraphs":  [
                            "The female workforce percentages for the professions facing DEREGULATION, lower certification standards, or federal status rollbacks:Speech-Language Pathologists: 95.1% women; Estheticians \u0026 Skin Care Specialists: 93.0% women; Hair Stylists \u0026 Cosmetologists: 90.8% women; Audiologists: 90.0% women; Tanning Salon Attendants: 89.4% women; Nurses (RNs/NPs): 88.0% women; Makeup Artists: 88.2% women; Social Workers: 85.0% women; Floral Designers / Florists: 89.4% women; Interior Designers: 79.0% women; Teachers (K-12): 77.0% women; Hair Braiders: 76.3% women. Let that sink in."
                        ]
@@ -600,7 +708,7 @@ window.campaignArticles = [
         "post":  "150",
         "date":  "Sep 25, 2026",
         "title":  "The KS Koch Political Network",
-        "image":  null,
+        "image":  "assets/campaign-gallery/Koch-Network-bbpca.jpg",
         "paragraphs":  [
                            "Did you know that the groups pushing to deregulate beauty services here in Kansas are all tied to the same powerful political network?When you hear about efforts to loosen licensing rules for cosmetologists, barbers, and estheticians, three main groups are usually leading the charge:Americans for Prosperity - Kansas (AFP-KS); Kansas Policy Institute (KPI); Kansas Justice Institute (KJI).",
                            "While these groups frame their campaigns around \"cutting red tape\" and helping small businesses, a look behind the curtain reveals they share the exact same major backer: the multi-billionaire Koch network (which is headquartered right here in Wichita).AFP was explicitly co-founded by Charles and David Koch as their primary national political advocacy arm.KPI was founded by a longtime Koch Industries executive and has drawn heavy financial support from Koch-linked foundations.KJI isn\u0027t even an independent group—it is the direct legal arm of the Kansas Policy Institute.",
