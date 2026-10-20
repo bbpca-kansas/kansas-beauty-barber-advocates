@@ -4,7 +4,7 @@
     throw new Error("Campaign article data or gallery container is missing.");
   }
 
-  const cards = document.createDocumentFragment();
+  const fragment = document.createDocumentFragment();
 
   for (const article of window.campaignArticles) {
     const card = document.createElement("article");
@@ -47,9 +47,43 @@
       content.append(details);
     }
     card.append(content);
-    cards.append(card);
+    fragment.append(card);
   }
 
-  gallery.replaceChildren(cards);
+  gallery.replaceChildren(fragment);
+  const PAGE_SIZE = 9;
+  const cards = Array.from(gallery.children);
+
+  gallery.replaceChildren(...cards);
   gallery.className = "article-grid";
+
+  if (cards.length > PAGE_SIZE) {
+    let shown = PAGE_SIZE;
+    const more = document.createElement("div");
+    more.className = "article-more";
+
+    const status = document.createElement("p");
+    status.setAttribute("role", "status");
+    const button = document.createElement("button");
+    button.type = "button";
+    button.className = "button button-dark";
+
+    const update = () => {
+      cards.forEach((card, i) => { card.hidden = i >= shown; });
+      const remaining = cards.length - shown;
+      status.textContent = `Showing ${Math.min(shown, cards.length)} of ${cards.length} articles`;
+      button.textContent = `Show ${Math.max(0, Math.min(PAGE_SIZE, remaining))} more`;
+      more.hidden = false;
+      button.hidden = remaining <= 0;
+    };
+
+    button.addEventListener("click", () => {
+      shown += PAGE_SIZE;
+      update();
+    });
+
+    more.append(status, button);
+    gallery.after(more);
+    update();
+  }
 })();
