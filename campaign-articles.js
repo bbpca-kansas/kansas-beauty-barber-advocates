@@ -40,10 +40,16 @@
 
       const body = document.createElement("div");
       body.className = "article-copy";
-      for (const paragraph of article.paragraphs) {
-        const text = document.createElement("p");
-        text.textContent = paragraph;
-        body.append(text);
+      if (article.html) {
+        // Trusted, site-authored markup that keeps the article's original formatting.
+        body.classList.add("article-rich");
+        body.innerHTML = article.html;
+      } else {
+        for (const paragraph of article.paragraphs) {
+          const text = document.createElement("p");
+          text.textContent = paragraph;
+          body.append(text);
+        }
       }
       details.append(body);
       content.append(details);

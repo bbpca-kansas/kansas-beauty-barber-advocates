@@ -556,6 +556,106 @@ h2 em {
   margin-bottom: 0;
 }
 
+/* Articles that keep their original Word formatting (colors from the supplied .docx) */
+.article-rich {
+  margin-top: 0.8rem;
+  padding: 1.2rem;
+  border-radius: 5px;
+  background: #dbe5f1;
+  color: #20124d;
+  font-family: "DM Sans", "Segoe UI", sans-serif;
+}
+
+.article-rich p,
+.article-rich li {
+  color: #20124d;
+  font-size: 1rem;
+  line-height: 1.7;
+}
+
+.article-rich p {
+  margin: 0 0 0.9rem;
+}
+
+.article-rich ul,
+.article-rich ol {
+  margin: 0 0 0.9rem;
+  padding-left: 2rem;
+}
+
+.article-rich .rich-indent {
+  padding-left: 1.4rem;
+}
+
+.article-rich .rich-muted {
+  color: #403152;
+}
+
+.rich-banner {
+  margin: 0 0 1rem;
+  padding: 0.6rem 0.8rem;
+  font-family: "DM Sans", "Segoe UI", sans-serif;
+  font-size: clamp(1.7rem, 4vw, 2.3rem);
+  font-weight: 700;
+  line-height: 1.15;
+  text-align: center;
+  paint-order: stroke fill;
+}
+
+.article-rich > .rich-banner:not(:first-child) {
+  margin-top: 1.6rem;
+}
+
+.rich-banner--blue {
+  background: #4f81bd;
+  color: #e5b8b7;
+  -webkit-text-stroke: 1px #c0504d;
+}
+
+.rich-banner--pink {
+  color: #e5b8b7;
+  -webkit-text-stroke: 1px #c0504d;
+}
+
+.rich-banner--violet {
+  color: #8064a2;
+  -webkit-text-stroke: 1px #8064a2;
+}
+
+.article-rich .rich-callout {
+  margin: 1.4rem auto;
+  padding: 0.9rem;
+  border-radius: 14px;
+  max-width: 92%;
+}
+
+.article-rich .rich-callout p {
+  margin: 0;
+  padding: 1rem;
+  font-size: 1.25rem;
+  font-weight: 700;
+  line-height: 1.45;
+  text-align: center;
+}
+
+.rich-callout--purple {
+  background: #8e7cc3;
+}
+
+.rich-callout--purple p {
+  background: linear-gradient(#dbd4eb, #9080bb);
+  color: #351c75;
+}
+
+.rich-callout--rose {
+  background: #c27ba0;
+}
+
+.rich-callout--rose p {
+  background: #ead1dc;
+  color: #741b47;
+}
+
 .gallery-card {
   min-width: 0;
   margin: 0;
