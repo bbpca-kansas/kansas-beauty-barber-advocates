@@ -16,6 +16,8 @@
       image.alt = `Campaign image for: ${article.title}`;
       image.loading = "lazy";
       card.append(image);
+    } else {
+      card.classList.add("article-card--text");
     }
 
     const content = document.createElement("div");
