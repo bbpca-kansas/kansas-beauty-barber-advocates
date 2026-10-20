@@ -31,19 +31,21 @@
     content.append(title);
 
     const details = document.createElement("details");
-    const summary = document.createElement("summary");
-    summary.textContent = "Read full article";
-    details.append(summary);
+    if (article.paragraphs.length) {
+      const summary = document.createElement("summary");
+      summary.textContent = "Read full article";
+      details.append(summary);
 
-    const body = document.createElement("div");
-    body.className = "article-copy";
-    for (const paragraph of article.paragraphs) {
-      const text = document.createElement("p");
-      text.textContent = paragraph;
-      body.append(text);
+      const body = document.createElement("div");
+      body.className = "article-copy";
+      for (const paragraph of article.paragraphs) {
+        const text = document.createElement("p");
+        text.textContent = paragraph;
+        body.append(text);
+      }
+      details.append(body);
+      content.append(details);
     }
-    details.append(body);
-    content.append(details);
     card.append(content);
     cards.append(card);
   }
