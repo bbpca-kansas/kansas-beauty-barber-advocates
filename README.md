@@ -16,8 +16,13 @@ available at:
 Open `index.html` in a web browser. The site uses static HTML, CSS, and JavaScript; no package
 installation or build step is required.
 
-The **From the campaign** section includes 51 reviewed Facebook articles. Open a card to read
-its full text; matching selected photos are shown where available.
+The **From the campaign** section lists 55 reviewed Facebook articles, ordered by Facebook views
+(most viewed first). It opens with nine articles and a **Show more** button loads the rest. Open a
+card to read its full text; matching selected photos are shown where available. Article text and
+images are stored in `campaign-articles-data.js` and `assets/campaign-gallery/`.
+
+The site's fonts (DM Sans and Playfair Display) are self-hosted in `assets/fonts/`, so the page
+does not load anything from Google Fonts.
 
 ## Contact and campaign links
 
