@@ -37,60 +37,6 @@ window.campaignArticles = [
                        ]
     },
     {
-        "post":  "090",
-        "date":  "Oct 03, 2026",
-        "title":  "Facebook post 090",
-        "image":  null,
-        "paragraphs":  [
-
-                       ]
-    },
-    {
-        "post":  "091",
-        "date":  "Oct 02, 2026",
-        "title":  "Facebook post 091",
-        "image":  null,
-        "paragraphs":  [
-
-                       ]
-    },
-    {
-        "post":  "092",
-        "date":  "Oct 02, 2026",
-        "title":  "Facebook post 092",
-        "image":  null,
-        "paragraphs":  [
-
-                       ]
-    },
-    {
-        "post":  "093",
-        "date":  "Oct 02, 2026",
-        "title":  "Facebook post 093",
-        "image":  null,
-        "paragraphs":  [
-
-                       ]
-    },
-    {
-        "post":  "094",
-        "date":  "Oct 02, 2026",
-        "title":  "Facebook post 094",
-        "image":  null,
-        "paragraphs":  [
-
-                       ]
-    },
-    {
-        "post":  "095",
-        "date":  "Oct 02, 2026",
-        "title":  "Facebook post 095",
-        "image":  null,
-        "paragraphs":  [
-
-                       ]
-    },
-    {
         "post":  "096",
         "date":  "Oct 01, 2026",
         "title":  "Who would win? It’s up to you!",
@@ -323,24 +269,6 @@ window.campaignArticles = [
         "image":  "assets/campaign-gallery/facebook-post-109.jpg",
         "paragraphs":  [
                            "Fire them!They are all up for reelection in November!They did not run on this crap! They are getting your vote and then doing whatever they want with it; did they talk to you about this Kansas?The SB 30 Veto Override is a Betrayal of Public Trust!https://sos.ks.gov/publications/sessionlaws/2026/Messages-05-SB-30.htmlThe recent decision by a supermajority in the Kansas Legislature to override Governor Laura Kelly’s veto of Senate Bill 30 is a direct betrayal of specialized workers and everyday citizens alike.https://www.kslegislature.gov/b2025_26/bills/sb30/By stripping power from independent professional boards and granting politicians the final say over technical licensing requirements, our representatives have chosen political control over expert safety standards.This isn\u0027t just bureaucratic meddling—it is an outright power grab. Lawmakers in the House and Senate who voted for this override have declared that their political agendas matter more than the qualifications of nurses, accountants, and dozens of other professions that protect Kansas consumers.When elected officials ignore the executive branch, dismiss industry experts, and push through centralized regulations, they need to be held accountable at the ballot box.It is time to look closely at the voting records from the April 2026 veto session.Remember the names of the representatives who voted to replace professional expertise with political oversight—and remember this betrayal when it is time to vote.If you want to see exactly how your local representative or senator voted on the Senate Bill 30 veto override? You can view the official roll call votes on the Kansas Legislature Bill Tracker.https://www.kslegislature.gov/b2025_26/votes/TRADERS!"
-                       ]
-    },
-    {
-        "post":  "110",
-        "date":  "Sep 30, 2026",
-        "title":  "Facebook post 110",
-        "image":  null,
-        "paragraphs":  [
-
-                       ]
-    },
-    {
-        "post":  "111",
-        "date":  "Sep 30, 2026",
-        "title":  "Facebook post 111",
-        "image":  null,
-        "paragraphs":  [
-
                        ]
     },
     {
