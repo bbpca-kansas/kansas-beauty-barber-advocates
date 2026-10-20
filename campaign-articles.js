@@ -23,7 +23,7 @@
 
     const meta = document.createElement("p");
     meta.className = "article-meta";
-    meta.textContent = `Facebook post ${article.post} · ${article.date}`;
+    meta.textContent = `Article ${article.post} · ${article.date}`;
     content.append(meta);
 
     const title = document.createElement("h3");
